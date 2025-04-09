@@ -1,10 +1,4 @@
-- 👋 Привет,меня зовут артем
-- 👀 Интересуюсь видеоиграми (dota 2,ddracenetwork),и частично пишу коды
-- 🌱 Я сейчас изучаю : python,C#
-- 📫 Только по нужным вопросам писать в телеграм @ArtemGaragee
-- 😄 Мне 13 лет
-- ⚡ ООООчень много сижу за компьютером
-
+c,c++,python
 <!---
 Jib-427/Jib-427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
